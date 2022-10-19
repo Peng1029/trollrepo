@@ -20,7 +20,6 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Blizzard Board | [Link](https://github.com/BenjaminHornbeck6/BlizzardBoard) | No direct download cause this can cause bootloops for now |
 | Control Center++(I don't think this is piracy but idk source) | Unknown | [Download](https://appinstallerios.com/TrollStoreIPAs/Control%20Center++.ipa) |
 | Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
-| Aphrodite | [Link](https://github.com/joey-gm/Aphrodite) |  |
 | More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
