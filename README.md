@@ -10,10 +10,12 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | ------------- | ------------- | ------------- |
 | Jaility | [Link](https://github.com/haxi0/Jaility/releases) | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
 | Clip | [Link](http://rileytestut.com/blog/2020/06/17/introducing-clip/) | [Download](https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa) |
+| Filza | [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated link](https://tigisoftware.com/download/Filza_3.9.7.ipa) |
+| Filza url scheme| [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated link](https://tigisoftware.com/download/Filza_NoURLScheme_3.9.7.ipa) |
 
 
 ## Apps Indirect
-You need to buy or convert these apps to ipas manually due to legalitys [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
+You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
 | ------------- | ------------- | ------------- |
 | Location Simulation  | (Paid) Ipa | [Link](https://www.reddit.com/r/jailbreak/comments/y83mda/paid_release_location_simulation_for_trollstore/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  |
