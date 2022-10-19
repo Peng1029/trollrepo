@@ -19,6 +19,8 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | BidFetcher | [Link](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS) | [Download](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS/releases/download/1.0/BIDFetcher_1.0.ipa)|
 | Blizzard Board | [Link](https://github.com/BenjaminHornbeck6/BlizzardBoard) | No direct download cause this can cause bootloops for now |
 | Control Center++(I don't think this is piracy but idk source) | Unknown | [Download](https://appinstallerios.com/TrollStoreIPAs/Control%20Center++.ipa) |
+| Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
+| More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
