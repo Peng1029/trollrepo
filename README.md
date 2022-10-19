@@ -28,7 +28,6 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | PojavLauncher | Zip file | [Link](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)|
 | Wifi Scanner | Reddit post | https://www.reddit.com/r/jailbreak/comments/x9ax86/free_release_wifi_scanner_ipa_for_trollstore/ |
 | Santander File Manager | [Link](https://github.com/itsnebulalol/SantanderTS/) | Look at github actions |
-| Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.
-(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
+| Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
 ## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
