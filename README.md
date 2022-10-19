@@ -13,7 +13,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Filza | [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated - download](https://tigisoftware.com/download/Filza_3.9.7.ipa) |
 | Filza url scheme| [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated - link](https://tigisoftware.com/download/Filza_NoURLScheme_3.9.7.ipa) | Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
 | Apps Manager | [Link](https://www.tigisoftware.com/default/?page_id=259) | [Can be outdated - download](https://tigisoftware.com/download/AppsManager_1.7.0.ipa) |
-| Appstore++ | [Link](https://github.com/CokePokes/AppStorePlus-TrollStore) | [](https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa) |
+| Appstore++ | [Link](https://github.com/CokePokes/AppStorePlus-TrollStore) | [Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa) |
 | Wallpaper Setter | [Link](https://github.com/Skittyblock/WallpaperSetter) | [Download](https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa) |
 | NiceBattery | No Idea | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
 
