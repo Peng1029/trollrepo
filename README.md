@@ -5,12 +5,12 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Offical Github  | PC  | [Link](https://github.com/opa334/TrollStore/releases)  |
 | Jailbreaks.app  | No PC(Recommended)  | [Link](https://api.jailbreaks.app/troll)  |
 
-#Apps Direct
+## Apps Direct
 | Appname | Source | Download |
 | ------------- | ------------- | ------------- |
 | Jaility | https://github.com/haxi0/Jaility/releases | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
 
-#Apps Indirect
+## Apps Indirect
 You need to buy or convert these apps to ipas manually due to legalitys [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
 | ------------- | ------------- | ------------- |
