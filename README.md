@@ -8,7 +8,9 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 ## Apps Direct
 | Appname | Source | Download |
 | ------------- | ------------- | ------------- |
-| Jaility | https://github.com/haxi0/Jaility/releases | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
+| Jaility | [Link](https://github.com/haxi0/Jaility/releases) | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
+| Clip | [Link](http://rileytestut.com/blog/2020/06/17/introducing-clip/) | [Download](https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa) |
+
 
 ## Apps Indirect
 You need to buy or convert these apps to ipas manually due to legalitys [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
@@ -17,3 +19,4 @@ You need to buy or convert these apps to ipas manually due to legalitys [Pc tool
 | Location Simulation  | (Paid) Ipa | [Link](https://www.reddit.com/r/jailbreak/comments/y83mda/paid_release_location_simulation_for_trollstore/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  |
 | Legizmo Kincaid  | (Paid)  | [Link](https://www.patreon.com/posts/legizmo-kincaid-72346969)  |
 | Cocoatop| Partially works | [I think the comments of this post tell you how to create an ipa](https://www.reddit.com/r/jailbreak/comments/x6lok9/free_release_filza_file_manager_and_cocoatop_for/) |
+| PojavLauncher | Zip file | [Link](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)|
