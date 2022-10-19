@@ -16,7 +16,8 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Appstore++ | [Link](https://github.com/CokePokes/AppStorePlus-TrollStore) | [Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa) |
 | Wallpaper Setter | [Link](https://github.com/Skittyblock/WallpaperSetter) | [Download](https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa) |
 | NiceBattery | No Idea | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
-| BidFetcher | [Link](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS) |
+| BidFetcher | [Link](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS) | [Download](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS/releases/download/1.0/BIDFetcher_1.0.ipa)|
+
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
@@ -27,6 +28,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | PojavLauncher | Zip file | [Link](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)|
 | Wifi Scanner | Reddit post | https://www.reddit.com/r/jailbreak/comments/x9ax86/free_release_wifi_scanner_ipa_for_trollstore/ |
 | Santander File Manager | [Link](https://github.com/itsnebulalol/SantanderTS/) | Look at github actions |
-
+| Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.
+(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
 ## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
