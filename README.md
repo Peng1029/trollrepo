@@ -17,7 +17,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Wallpaper Setter | [Link](https://github.com/Skittyblock/WallpaperSetter) | [Download](https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa) |
 | NiceBattery | No Idea | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
 | BidFetcher | [Link](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS) | [Download](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS/releases/download/1.0/BIDFetcher_1.0.ipa)|
-
+| Blizzard Board | [Link](https://github.com/BenjaminHornbeck6/BlizzardBoard) | No direct download cause this can cause bootloops for now |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
