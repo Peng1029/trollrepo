@@ -1,5 +1,5 @@
 # Trollrepo
-A small repo for trollstore based off of u/freakshowaddicts guide, create an issue with some links and I'll try to add any new apps to the guide
+A small repo for trollstore based off of u/freakshowaddicts guide, create an issue with some links and I'll try to add any new apps to the guide, will also have a Trollstore source file in a bit but I'm lazy
 | Trollstore  | Pc/No Pc | Link |
 | ------------- | ------------- | ------------- |
 | Offical Github  | PC  | [Link](https://github.com/opa334/TrollStore/releases)  |
