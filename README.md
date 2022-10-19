@@ -15,7 +15,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Apps Manager | [Link](https://www.tigisoftware.com/default/?page_id=259) | [Can be outdated - download](https://tigisoftware.com/download/AppsManager_1.7.0.ipa) |
 | Appstore++ | [Link](https://github.com/CokePokes/AppStorePlus-TrollStore) | [](https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa) |
 | Wallpaper Setter | [Link](https://github.com/Skittyblock/WallpaperSetter) | [Download](https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa) |
-| NiceBattery | No Idea | [Download]https://www.niceios.com/trollapps/NiceBattery.ipa) |
+| NiceBattery | No Idea | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
 
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
