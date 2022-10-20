@@ -51,7 +51,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | PojavLauncher | Zip file | [Link](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)|
 | Wifi Scanner | Reddit post | [Link](https://www.reddit.com/r/jailbreak/comments/x9ax86/free_release_wifi_scanner_ipa_for_trollstore/) |
 | Santander File Manager | [Link](https://github.com/itsnebulalol/SantanderTS/) | Look at github actions |
-| Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Add Repo to PostBox](postbox://source/http://repo.cpdigitaldarkroom.com) |
+| Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Add Repo to PostBox](postbox://source/https://repo.cpdigitaldarkroom.com) |
 | Aphrodite | Use deb to ipa | [Link](https://github.com/joey-gm/Aphrodite) |
 | Wifi list | Postbox, use deb to ipa | [Deb download](postbox://source/http://repo.hackyouriphone.org) |
 | iGameGod (Cheat Engine for iOS) | Inject tweak into app | [Download and inject](https://iosgods.com/igg) | 
