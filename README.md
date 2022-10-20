@@ -23,6 +23,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 | Mugunghwa | [Link](https://github.com/s8ngyu/Mugunghwa) | [Download](https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa) |
 | Delta | [Link](https://github.com/delta-io/delta) | [Download](https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa) |
+| More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
@@ -35,5 +36,6 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Santander File Manager | [Link](https://github.com/itsnebulalol/SantanderTS/) | Look at github actions |
 | Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
 | Aphrodite | Use deb to ipa | [Link](https://github.com/joey-gm/Aphrodite) |
+| Wifi list | Postbox, use deb to ipa | [Deb download](postbox://source/http://repo.hackyouriphone.org) |
 ## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
