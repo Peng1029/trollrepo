@@ -7,7 +7,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 
 ## Apps Direct
 | Appname | Source | Download |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Jaility | [Link](https://github.com/haxi0/Jaility/releases) | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
 | Clip | [Link](http://rileytestut.com/blog/2020/06/17/introducing-clip/) | [Download](https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa) |
 | Filza | [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated - download](https://tigisoftware.com/download/Filza_3.9.7.ipa) |
