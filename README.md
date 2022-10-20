@@ -37,6 +37,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
 | Aphrodite | Use deb to ipa | [Link](https://github.com/joey-gm/Aphrodite) |
 | Wifi list | Postbox, use deb to ipa | [Deb download](postbox://source/http://repo.hackyouriphone.org) |
+| iGameGod (Cheat Engine for iOS) | Inject tweak into app | [Download](https://iosgods.com/igg) | 
 ## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
 IPSW by Hyperixa
