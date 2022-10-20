@@ -20,7 +20,6 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Blizzard Board | [Link](https://github.com/BenjaminHornbeck6/BlizzardBoard) | No direct download cause this can cause bootloops for now |
 | Control Center++(I don't think this is piracy but idk source) | Unknown | [Download](https://appinstallerios.com/TrollStoreIPAs/Control%20Center++.ipa) |
 | Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
-| More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 | Mugunghwa | [Link](https://github.com/s8ngyu/Mugunghwa) | [Download](https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa) |
 | Delta | [Link](https://github.com/delta-io/delta) | [Download](https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa) |
 | More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
