@@ -55,7 +55,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Aphrodite | Use deb to ipa | [Link](https://github.com/joey-gm/Aphrodite) |
 | Wifi list | Postbox, use deb to ipa | [Deb download](postbox://source/http://repo.hackyouriphone.org) |
 | iGameGod (Cheat Engine for iOS) | Inject tweak into app | [Download and inject](https://iosgods.com/igg) | 
-| TSSSaver | It allows you to save your blobs to TSSSaver website. | repo.1conan.com | [Add Repo to PostBox then convert - http://repo.1conan.com |
+| TSSSaver | It allows you to save your blobs to TSSSaver website. | repo.1conan.com | Add Repo to PostBox then convert - http://repo.1conan.com |
 | Theos Tips | Learn how to make tweaks with ease! | repo.packix.com | [Add Repo to PostBox  then convert](postbox://source/http://repo.packix.com) |
 | Respring by Anamy | Respring App | [Link](https://github.com/elihwyma/Respring) | You need to find or compile this|
 | Repo Finder | Find more repos. Deb file needs to be converted | [Link](https://github.com/HomemadeToast57/repofinder) | [Download then convert](https://github.com/HomemadeToast57/repofinder/releases/download/Releases/com.HomemadeToast.RepoFinder_1.02_iphoneos-arm.deb) |
