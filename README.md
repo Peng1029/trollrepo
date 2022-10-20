@@ -30,7 +30,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Legizmo Kincaid  | (Paid)  | [Link](https://www.patreon.com/posts/legizmo-kincaid-72346969)  |
 | Cocoatop| Partially works | [I think the comments of this post tell you how to create an ipa](https://www.reddit.com/r/jailbreak/comments/x6lok9/free_release_filza_file_manager_and_cocoatop_for/) |
 | PojavLauncher | Zip file | [Link](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)|
-| Wifi Scanner | Reddit post | https://www.reddit.com/r/jailbreak/comments/x9ax86/free_release_wifi_scanner_ipa_for_trollstore/ |
+| Wifi Scanner | Reddit post | [link](https://www.reddit.com/r/jailbreak/comments/x9ax86/free_release_wifi_scanner_ipa_for_trollstore/) |
 | Santander File Manager | [Link](https://github.com/itsnebulalol/SantanderTS/) | Look at github actions |
 | Bundlr | Download the deb file with the PostBox application and convert it with the deb2ipa application.(Allows you to find the bundleid of applications.0) | [Link](repo.cpdigitaldarkroom.com) |
 | Aphrodite | Use deb to ipa | [Link](https://github.com/joey-gm/Aphrodite) |
