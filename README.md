@@ -7,7 +7,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 
 ## Apps Direct
 | Appname | Source | Download |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Jaility | [Link](https://github.com/haxi0/Jaility/releases) | [Link](https://github.com/haxi0/Jaility/releases/tag/3.0.1) |
 | Clip | [Link](http://rileytestut.com/blog/2020/06/17/introducing-clip/) | [Download](https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa) |
 | Filza | [Link](https://www.tigisoftware.com/default/?p=439) | [Can be outdated - download](https://tigisoftware.com/download/Filza_3.9.7.ipa) |
@@ -25,7 +25,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Postbox | [Link](https://www.postbox.news/) | [Link](https://www.postbox.news/downloads) [Download](https://cdn.discordapp.com/attachments/711715470763491370/1002656066812792842/PostBox-0.8-beta.ipa) |
 
 | Appname | Info | Source | Download |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |  ------------- |
 | iMemScan | Cheat Engine for iOS | Site down | Site Down |
 | Jitterbug | Launch JIT enabled iOS app with a second iOS device. | [Link](https://github.com/osy/Jitterbug) | [Download](https://github.com/osy/Jitterbug/releases) |
 | MobileTSS | shsh2 Blob Saver. | [Link](https://github.com/lucaIz-ldx/MobileTSS) | [Download](https://github.com/lucaIz-ldx/MobileTSS/releases/download/v2.0.1/MobileTSS_v2.0.1.ipa) |
