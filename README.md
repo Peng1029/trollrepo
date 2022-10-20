@@ -23,6 +23,9 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Mugunghwa | [Link](https://github.com/s8ngyu/Mugunghwa) | [Download](https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa) |
 | Delta | [Link](https://github.com/delta-io/delta) | [Download](https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa) |
 | Postbox | [Link](https://www.postbox.news/) | [Link](https://www.postbox.news/downloads) [Download](https://cdn.discordapp.com/attachments/711715470763491370/1002656066812792842/PostBox-0.8-beta.ipa) |
+
+| Appname | Info | Source | Download |
+| ------------- | ------------- | ------------- |
 | iMemScan | Cheat Engine for iOS | Site down | Site Down |
 | Jitterbug | Launch JIT enabled iOS app with a second iOS device. | [Link](https://github.com/osy/Jitterbug) | [Download](https://github.com/osy/Jitterbug/releases) |
 | MobileTSS | shsh2 Blob Saver. | [Link](https://github.com/lucaIz-ldx/MobileTSS) | [Download](https://github.com/lucaIz-ldx/MobileTSS/releases/download/v2.0.1/MobileTSS_v2.0.1.ipa) |
