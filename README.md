@@ -5,8 +5,6 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Offical Github  | PC  | [Link](https://github.com/opa334/TrollStore/releases)  |
 | Jailbreaks.app  | No PC(Recommended)  | [Link](https://api.jailbreaks.app/troll)  |
 
-
-[Add Repo to PostBox](postbox://source/https://repo.cpdigitaldarkroom.com)
 ## Apps Direct
 | Appname | Source | Download |
 | ------------- | ------------- | ------------- |
