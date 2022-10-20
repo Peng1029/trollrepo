@@ -34,8 +34,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Power Phone Clean | Cache cleaner. | [Link](https://appybois.com/) | [Download](https://appybois.com/altstore/PowerPhoneClean.ipa) |
 | RadioCarPlay | Example radio streaming CarPlay iOS app. | [Link](https://github.com/danielyc/RadioCarPlay) | [Download](https://github.com/danielyc/RadioCarPlay/releases/download/1.0/RadioCarPlay.ipa) |
 | Red Dot | Badge color changer. | [Link](https://github.com/s8ngyu/red-dot) | [Download](https://github.com/s8ngyu/red-dot/releases/download/0.1/reddot_0.1.ipa) |
-| Resolution Setter | -It fixes when you reboot your phone, so it's safe. -On some resolutions pip is broken, check it. I think it is understood from the name.
-| [Link](https://github.com/Halo-Michael/Resolution-Setter-app) | [Download](https://github.com/Halo-Michael/Resolution-Setter-app/releases) |
+| Resolution Setter | -It fixes when you reboot your phone, so it's safe. -On some resolutions pip is broken, check it. I think it is understood from the name.| [Link](https://github.com/Halo-Michael/Resolution-Setter-app) | [Download](https://github.com/Halo-Michael/Resolution-Setter-app/releases) |
 | ScreenshotX | Put screenshots in phones. | [Link](http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/screenshotx) | idk |
 | Serial | Allows you to query the serial number of your device. | [Link](https://github.com/aydenp/Serial) | [Download](https://github.com/aydenp/Serial/releases/download/v1.0.3/Sideload.ipa) |
 | Supervise | It allows you to activate your device's supervise feature. | [Tweaks](https://supervise.me/) | [Download](https://appinstallerios.com/TrollStoreIPAs/Supervise.ipa) |
