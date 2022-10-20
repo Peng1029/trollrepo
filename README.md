@@ -22,6 +22,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
 | More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 | Mugunghwa | [Link](https://github.com/s8ngyu/Mugunghwa) | [Download](https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa) |
+| Delta | [Link](https://github.com/delta-io/delta) | [Download](https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa) |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
 | Appname  | Status | Link |
