@@ -22,6 +22,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Instaspring | [Link](https://github.com/haxi0/InstaSpring) | [Download](https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa) |
 | Mugunghwa | [Link](https://github.com/s8ngyu/Mugunghwa) | [Download](https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa) |
 | Delta | [Link](https://github.com/delta-io/delta) | [Download](https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa) |
+| Postbox | [Link](https://www.postbox.news/) | [Link](https://www.postbox.news/downloads) [Download](https://cdn.discordapp.com/attachments/711715470763491370/1002656066812792842/PostBox-0.8-beta.ipa) |
 | More apps here | I'm to lazy to finish this markdown table | [Link](https://justpaste.it/freakmegaguide) |
 ## Apps Indirect
 You need to buy or do something these apps to ipas manually due to legalitys or issues with download [Pc tool](https://github.com/sourcelocation/DebToIPA) [Phone tool](https://github.com/sourcelocation/DebToIPA)
@@ -38,3 +39,7 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Wifi list | Postbox, use deb to ipa | [Deb download](postbox://source/http://repo.hackyouriphone.org) |
 ## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
+IPSW by Hyperixa
+Application where you can check whether iOS versions are signed or unsigned.
+-Discontinued but still works, you can probably still install this
+
