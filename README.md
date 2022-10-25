@@ -15,7 +15,7 @@ A small repo for trollstore based off of u/freakshowaddicts guide, create an iss
 | Apps Manager | [Link](https://www.tigisoftware.com/default/?page_id=259) | [Can be outdated - download](https://tigisoftware.com/download/AppsManager_1.7.0.ipa) |
 | Appstore++ | [Link](https://github.com/CokePokes/AppStorePlus-TrollStore) | [Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa) |
 | Wallpaper Setter | [Link](https://github.com/Skittyblock/WallpaperSetter) | [Download](https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa) |
-| NiceBattery | No Idea | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
+| NiceBattery | [Link](https://www.niceios.com/) | [Download](https://www.niceios.com/trollapps/NiceBattery.ipa) |
 | BidFetcher | [Link](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS) | [Download](https://github.com/mass1ve-err0r/BundleIDFetcher4iOS/releases/download/1.0/BIDFetcher_1.0.ipa)|
 | Blizzard Board | [Link](https://github.com/BenjaminHornbeck6/BlizzardBoard) | No direct download cause this can cause bootloops for now |
 | Control Center++(I don't think this is piracy but idk source) | Unknown | [Download](https://appinstallerios.com/TrollStoreIPAs/Control%20Center++.ipa) |
