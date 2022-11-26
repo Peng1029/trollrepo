@@ -62,7 +62,8 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | iTheosMaker | Simple app helps you to create , manage and build Theos projects with more than 10+ features. | repo.packix.com | [Add Repo to PostBox then convert](postbox://source/http://repo.packix.com) |
 
 ## Extras
-[Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
+[Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/) -- Site currently broken
+
 IPSW by Hyperixa
 Application where you can check whether iOS versions are signed or unsigned.
 -Discontinued but still works, you can probably still install this
