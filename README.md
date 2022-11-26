@@ -60,7 +60,8 @@ You need to buy or do something these apps to ipas manually due to legalitys or 
 | Respring by Anamy | Respring App | [Link](https://github.com/elihwyma/Respring) | You need to find or compile this|
 | Repo Finder | Find more repos. Deb file needs to be converted | [Link](https://github.com/HomemadeToast57/repofinder) | [Download then convert](https://github.com/HomemadeToast57/repofinder/releases/download/Releases/com.HomemadeToast.RepoFinder_1.02_iphoneos-arm.deb) |
 | iTheosMaker | Simple app helps you to create , manage and build Theos projects with more than 10+ features. | repo.packix.com | [Add Repo to PostBox then convert](postbox://source/http://repo.packix.com) |
-##Extras
+
+## Extras
 [Filza Tweaks](https://haxi0-dev.com/FilzaTutorials/)
 IPSW by Hyperixa
 Application where you can check whether iOS versions are signed or unsigned.
